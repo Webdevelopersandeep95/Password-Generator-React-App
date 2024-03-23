@@ -1,0 +1,9 @@
+.box {
+  width: 50%;
+  margin: 0 auto;
+}
+.password-btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
